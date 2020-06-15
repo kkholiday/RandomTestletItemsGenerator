@@ -1,0 +1,10 @@
+C:\Users\k2\Development\RandomItemsGenerator\RandomItemsGenerator\bin\Debug\netcoreapp2.1\RandomItemsGenerator.deps.json
+C:\Users\k2\Development\RandomItemsGenerator\RandomItemsGenerator\bin\Debug\netcoreapp2.1\RandomItemsGenerator.runtimeconfig.json
+C:\Users\k2\Development\RandomItemsGenerator\RandomItemsGenerator\bin\Debug\netcoreapp2.1\RandomItemsGenerator.runtimeconfig.dev.json
+C:\Users\k2\Development\RandomItemsGenerator\RandomItemsGenerator\bin\Debug\netcoreapp2.1\RandomItemsGenerator.dll
+C:\Users\k2\Development\RandomItemsGenerator\RandomItemsGenerator\bin\Debug\netcoreapp2.1\RandomItemsGenerator.pdb
+C:\Users\k2\Development\RandomItemsGenerator\RandomItemsGenerator\obj\Debug\netcoreapp2.1\RandomItemsGenerator.csproj.CoreCompileInputs.cache
+C:\Users\k2\Development\RandomItemsGenerator\RandomItemsGenerator\obj\Debug\netcoreapp2.1\RandomItemsGenerator.AssemblyInfoInputs.cache
+C:\Users\k2\Development\RandomItemsGenerator\RandomItemsGenerator\obj\Debug\netcoreapp2.1\RandomItemsGenerator.AssemblyInfo.cs
+C:\Users\k2\Development\RandomItemsGenerator\RandomItemsGenerator\obj\Debug\netcoreapp2.1\RandomItemsGenerator.dll
+C:\Users\k2\Development\RandomItemsGenerator\RandomItemsGenerator\obj\Debug\netcoreapp2.1\RandomItemsGenerator.pdb
